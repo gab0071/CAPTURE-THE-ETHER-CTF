@@ -1,4 +1,5 @@
 <h1 aling="center">Capture the Ether with us 📚⛓✨</h1>
+<a href="https://github.com/catellaTech/CAPTURE-THE-ETHER-CTF/actions/workflows/test.yml"><img src="https://travis-ci.org/mpaland/printf.svg?branch=master"></a>
    <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
     <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
   </a>
